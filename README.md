@@ -17,7 +17,7 @@ This project implements a lightweight embedded DSL for explicitly defining fusio
 
 **final_project.ipynb**: main notebook containing DSL implementation, benchmarks, experiments, and plots
 
-**presentation.pdf**: final presentation slides
+**presentation_slides.pdf**: final presentation slides
 
 **figures/**: results folder
 
